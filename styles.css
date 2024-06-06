@@ -26,6 +26,14 @@ body {
   overflow: hidden;
 }
 
+.vector3 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
 .header {
   padding: 35px 0;
   width: 100%;
