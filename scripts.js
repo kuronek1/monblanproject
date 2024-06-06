@@ -92,7 +92,7 @@ $(function () {
     if (currentIndex >= data.length) {
       $("#load-more-btn").hide();
     } else {
-      $("#load-more-btn").show(); // Показываем кнопку только если есть еще элементы для загрузки
+      $("#load-more-btn").show();
     }
   }
 
